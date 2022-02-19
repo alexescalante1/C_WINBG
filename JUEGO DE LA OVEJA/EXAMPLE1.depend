@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1594078092 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example2\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1594768110 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\3 en raya\main.cpp
+	<iostream>
+	<windows.h>
+	<winbgim.h>
+
+1594778434 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\tres en raya final\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<winbgim.h>
+
+1597881970 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\juego de la oveja\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<winbgim.h>
+	<cmath>
+

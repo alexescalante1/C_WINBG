@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1594078092 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example2\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1594411493 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example3\main.cpp
+	<winbgim.h>
+	<windows.h>
+	<iostream>
+
+1595040945 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\cara\main.cpp
+	<winbgim.h>
+	<iostream>
+	<windows.h>
+
+1595040945 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\carita\main.cpp
+	<winbgim.h>
+	<iostream>
+	<windows.h>
+
+1600116190 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\carita mov\main.cpp
+	<winbgim.h>
+	<iostream>
+	<windows.h>
+

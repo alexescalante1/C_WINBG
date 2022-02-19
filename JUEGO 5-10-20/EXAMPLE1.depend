@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1601931183 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\juego\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+
+1601931183 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\juego 5-10-20\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+
